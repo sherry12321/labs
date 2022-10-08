@@ -1,6 +1,7 @@
 ### Data Analysis for the Life Sciences
 
 #### NEWS:
+Oct 2022 I'm testing github repo, as well as learning R.
 
 September 16, 2015 : We are reogranizing the labs here for the new courses launching this Fall.
 We have decided to drop the `course1` style of directory structure, as the number of courses
